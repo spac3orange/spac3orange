@@ -1,10 +1,63 @@
-- 👋 Hi, I’m @spac3orange
-- 👀 I’m interested in Python Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-spac3orange/spac3orange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Привет, меня зовут Влад!
+
+---
+
+### :man_technologist: Обо мне:
+
+Мой, как это принято говорить, путь в айти началася с курсов Skillbox, по профессии специалист по кибербезопасности. После изучения основ HTML, CSS и ОС Linux, а так же изучения основ Python там же, мною было принято решение углубленно изучать Python, чем я и занимаюсь по сей день. В данный момент меня зацепили курсы на stepick (нужно больше баллов)), закончил с отличием курс "Добрый, Добрый Python" от Сергея Балакирева, сейчас заканчиваю курс "WEB Parsing на Python" от Павла Хошева, далее собираюсь приступить к курсу по ООП и начать зарабатывать на фрилансе.
+
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
+- :seedling: Завершил курс 'Добрый, Добрый Python' на stepik.org с отличием!
+
+---
+
+---
+
+### 💻 Технологии:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
+  
+  
+</div>
+
+---
+
+### 🛠 Инструменты:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="raspberrypi" alt="raspberrypi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 💻 Пройденные курсы:
+
+| Курсы                                                           | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| skillbox.ru/Веб-верстка (Базовый уровень)                       | 02/2022 - 06/2022 |
+| skillbox.ru/Основы Python (Часть 1, 2)                          | 08/2022 - 02/2023 |
+| skillbox.ru/Структура ОС Linux                                  | 02/2023 - 04/2023 |
+| skillbox.ru/Специалист по кибербезопасности                     | 04/2023 - 06/2023 |
+| skillbox.ru/Система контроля версий Git                         | 05/2023 - 06/2023 |
+| stepick.org/Добрый, дорый Python                                | 07/2023 - 08/2023 |
+| stepick.org/WEB Parsing на Python                               | 08/2022 - xx/2023 |
+
+--- -->
+
+### 💻 Codewars:
