@@ -59,3 +59,20 @@
 --- -->
 
 ### 💻 Codewars:
+
+---
+
+### ⚙️ GitHub статистика:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=spac3orange&theme=burnt-neon" alt="Dev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Dev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=spac3orange&layout=donut&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=spac3orange)
