@@ -61,6 +61,8 @@
 
 ### 💻 Codewars:
 
+![codewars](https://www.codewars.com/users/spac3orange/badges/large)
+
 ---
 
 ### ⚙️ GitHub статистика:
