@@ -53,8 +53,9 @@
 | skillbox.ru/Структура ОС Linux                                  | 02/2023 - 04/2023 |
 | skillbox.ru/Специалист по кибербезопасности                     | 04/2023 - 06/2023 |
 | skillbox.ru/Система контроля версий Git                         | 05/2023 - 06/2023 |
-| stepick.org/Добрый, дорый Python                                | 07/2023 - 08/2023 |
-| stepick.org/WEB Parsing на Python                               | 08/2022 - xx/2023 |
+| stepick.org/Добрый, дорый Python (C. Балакирев)                 | 07/2023 - 08/2023 |
+| stepick.org/WEB Parsing на Python                               | 08/2022 - 08/2023 |
+| stepick.org/Добрый, добрый Python ООП (С. Балакирев)            | 08/2023 - xx/2023 |
 
 --- -->
 
