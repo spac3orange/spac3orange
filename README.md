@@ -1,11 +1,12 @@
 
-# Привет, меня зовут Влад!
+# Hi, my name is Vlad!
 
 ---
 
-### :man_technologist: Обо мне:
+### :man_technologist: About me:
 
-Мой, как это принято говорить, путь в айти началася с курсов Skillbox, по профессии специалист по кибербезопасности. После изучения основ HTML, CSS и ОС Linux, а так же изучения основ Python там же, мною было принято решение углубленно изучать Python, чем я и занимаюсь по сей день. В данный момент меня зацепили курсы на stepick (нужно больше баллов)), закончил с отличием курс "Добрый, Добрый Python" от Сергея Балакирева, сейчас заканчиваю курс "WEB Parsing на Python" от Павла Хошева, далее собираюсь приступить к курсу по ООП и начать зарабатывать 
+This page will just be a small notebook for my projects
+I hope someone can use them :)
 
 <p align="center">
  <img width="600" src="https://github.com/FilimonovAlexey/FilimonovAlexey/blob/main/assets/github-snake.svg" alt="snake"/>
