@@ -6,6 +6,7 @@
 ### :man_technologist: About me:
 
 This page will just be a small notebook for my projects
+
 I hope someone can use them :)
 
 <p align="center">
