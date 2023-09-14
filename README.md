@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: About me:
+### :man_technologist: About this page:
 
 This page will just be a small notebook for my projects
 
@@ -17,7 +17,7 @@ I hope someone can use them :)
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
@@ -31,7 +31,7 @@ I hope someone can use them :)
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
@@ -46,7 +46,7 @@ I hope someone can use them :)
 
 ---
 
-### 💻 Пройденные курсы:
+### 💻 Courses:
 
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
@@ -67,7 +67,7 @@ I hope someone can use them :)
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
